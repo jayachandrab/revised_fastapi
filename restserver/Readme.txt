@@ -10,8 +10,8 @@ python -m venv serv (virtual environment name)
 
 then issue the below command it will enable virtual environment for the current project
 
-source environment/Scripts/activate (in mac)
-.\environment\Scripts\activate (in windows)
+source serv/Scripts/activate (in mac)
+.\serv\Scripts\activate (in windows)
 
 6. Then give the below command from where the requirements.txt file present
 
